@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DiegoOrellana 11/28/2018 22:54",
+	"super" : "IndexedSlot",
+	"category" : "DataBindings-Bindings",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"bindingStrategy"
+	],
+	"name" : "DataBindingSlot",
+	"type" : "normal"
+}

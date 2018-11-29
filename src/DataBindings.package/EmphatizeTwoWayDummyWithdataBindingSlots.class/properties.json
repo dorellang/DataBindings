@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DiegoOrellana 11/28/2018 21:31",
+	"super" : "ChangeLoggerDummyWithDataBindingsSlots",
+	"category" : "DataBindings-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EmphatizeTwoWayDummyWithdataBindingSlots",
+	"type" : "normal"
+}

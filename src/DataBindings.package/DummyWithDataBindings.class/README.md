@@ -1,0 +1,1 @@
+I am a dummy data binding owner for unit testing purposes. I use the TDataBindingOwner trait to know how to handle DataBindings. You may set me a DataBindingRefresher with through the #refresher: accessor.

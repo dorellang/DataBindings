@@ -1,0 +1,3 @@
+refreshing
+requestRefresh
+	wasRefreshRequested := true

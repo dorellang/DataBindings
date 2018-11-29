@@ -1,0 +1,15 @@
+{
+	"classtraitcomposition" : "TDataBindingOwner classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"refresher"
+	],
+	"name" : "DummyWithDataBindings",
+	"commentStamp" : "DiegoOrellana 11/28/2018 18:48",
+	"super" : "Object",
+	"traitcomposition" : "TDataBindingOwner",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "DataBindings-Tests"
+}

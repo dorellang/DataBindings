@@ -1,0 +1,1 @@
+I am a data binding refresher that flushes a data binding when changed. And does nothing when is requested a refresh.

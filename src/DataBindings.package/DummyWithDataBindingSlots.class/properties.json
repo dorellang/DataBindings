@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "DiegoOrellana 11/28/2018 18:51",
+	"super" : "DummyWithDataBindings",
+	"category" : "DataBindings-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"#oneWay => DataBindingSlot oneWay",
+		"#twoWay => DataBindingSlot twoWay",
+		"#oneTime => DataBindingSlot oneTime"
+	],
+	"name" : "DummyWithDataBindingSlots",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+accessing
+slotConstructorStr
+	self subclassResponsibility

@@ -1,0 +1,3 @@
+*DataBindings
+isDataBinding
+	^ false

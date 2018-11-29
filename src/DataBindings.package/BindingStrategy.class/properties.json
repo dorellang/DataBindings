@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DiegoOrellana 11/28/2018 22:06",
+	"super" : "Object",
+	"category" : "DataBindings-Bindings",
+	"classinstvars" : [
+		"instance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BindingStrategy",
+	"type" : "normal"
+}

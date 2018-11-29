@@ -1,0 +1,1 @@
+I am a dummy data binding owner for unit testing purposes. My #onChanges: method is written in such way that the binding will always have a new change, so it makes the DeferredDataBindingRefresher enter into a loop that must be handled gracefully.

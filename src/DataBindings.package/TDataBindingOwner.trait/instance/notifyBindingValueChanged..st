@@ -1,0 +1,3 @@
+notifications
+notifyBindingValueChanged: aDataBinding
+	self refresher notifyBindingValueChanged: aDataBinding

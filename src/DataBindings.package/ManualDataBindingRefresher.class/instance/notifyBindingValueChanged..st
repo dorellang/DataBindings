@@ -1,0 +1,3 @@
+flushing
+notifyBindingValueChanged: aDataBinding
+	aDataBinding flush

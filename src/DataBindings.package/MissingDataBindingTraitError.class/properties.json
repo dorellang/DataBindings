@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DiegoOrellana 11/28/2018 21:38",
+	"super" : "Error",
+	"category" : "DataBindings-Errors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MissingDataBindingTraitError",
+	"type" : "normal"
+}

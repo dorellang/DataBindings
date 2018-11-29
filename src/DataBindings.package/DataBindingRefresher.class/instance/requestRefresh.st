@@ -1,0 +1,3 @@
+refreshing
+requestRefresh
+	self subclassResponsibility

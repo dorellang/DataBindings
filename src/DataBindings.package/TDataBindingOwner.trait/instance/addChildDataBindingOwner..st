@@ -1,0 +1,3 @@
+accessing
+addChildDataBindingOwner: aDataBindingOwner
+	self childDataBindingOwners add: aDataBindingOwner

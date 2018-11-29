@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DiegoOrellana 11/28/2018 23:33",
+	"super" : "DataBindingRefresher",
+	"category" : "DataBindings-Bindings",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"owner"
+	],
+	"name" : "InmediateDataBindingRefresher",
+	"type" : "normal"
+}

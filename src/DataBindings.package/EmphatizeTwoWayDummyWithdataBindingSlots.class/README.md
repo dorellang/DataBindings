@@ -1,0 +1,1 @@
+I am a dummy data binding owner for unit testing purposes. My #onChanges: method is written in such way that the #twoWay binding will be wrapped in asterisks (aka '*') if the written value is deemed important.

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DiegoOrellana 11/28/2018 21:33",
+	"super" : "DataBindingRefresher",
+	"category" : "DataBindings-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"wasRefreshRequested"
+	],
+	"name" : "LogDataBindingRefresher",
+	"type" : "normal"
+}

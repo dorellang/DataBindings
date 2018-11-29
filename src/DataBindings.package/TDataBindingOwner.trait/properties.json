@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DiegoOrellana 11/28/2018 23:44",
+	"classinstvars" : [ ],
+	"category" : "DataBindings-Bindings",
+	"instvars" : [
+		"dataBindings",
+		"parentDataBindingOwner",
+		"childDataBindingOwners"
+	],
+	"name" : "TDataBindingOwner"
+}

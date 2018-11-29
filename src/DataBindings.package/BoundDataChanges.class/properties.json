@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "DiegoOrellana 11/28/2018 23:09",
+	"super" : "Object",
+	"category" : "DataBindings-Bindings",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"owner",
+		"valueChangeDict"
+	],
+	"name" : "BoundDataChanges",
+	"type" : "normal"
+}

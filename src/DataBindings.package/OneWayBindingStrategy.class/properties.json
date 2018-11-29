@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DiegoOrellana 11/28/2018 22:01",
+	"super" : "BindingStrategy",
+	"category" : "DataBindings-Bindings",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OneWayBindingStrategy",
+	"type" : "normal"
+}

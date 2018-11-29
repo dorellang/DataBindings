@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "DiegoOrellana 11/28/2018 23:42",
+	"super" : "NewValueHolder",
+	"category" : "DataBindings-Bindings",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"owner",
+		"name",
+		"subscriptions",
+		"refreshStrategy",
+		"dirty",
+		"oldValue",
+		"newValue",
+		"released"
+	],
+	"name" : "DataBinding",
+	"type" : "normal"
+}
