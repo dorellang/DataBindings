@@ -1,4 +1,4 @@
 # DataBindings
-An small Vue.js-inspired reactive data bindings framework for Pharo.
+A small Vue.js-inspired reactive data bindings framework for Pharo.
 
 ToDo
