@@ -6,7 +6,7 @@ refreshIfRequested
 	maxIterations timesRepeat: [
 		| hadChanges |
 		hadChanges := self refreshOwner: rootOwner.
-		hadChanges ifFalse: [ refreshRequested := false. ^ self ]
+		hadChanges ifFalse: [ refreshRequested := false. ^ self].
 	].
 	refreshRequested := false.
 	TooManyRefreshIterations signal

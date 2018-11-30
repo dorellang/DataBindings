@@ -1,4 +1,4 @@
 accessing
 childDataBindingOwners
-	childDataBindingOwners ifNil: [ childDataBindingOwners := OrderedCollection new ].
+	childDataBindingOwners ifNil: [ childDataBindingOwners := Set new ].
 	^ childDataBindingOwners
