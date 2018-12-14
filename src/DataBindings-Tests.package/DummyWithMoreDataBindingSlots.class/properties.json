@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "DummyWithDataBindingSlots",
+	"category" : "DataBindings-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"#oneWayAgain => DataBindingSlot oneWay",
+		"#twoWayAgain => DataBindingSlot twoWay",
+		"#oneTimeAgain => DataBindingSlot oneTime"
+	],
+	"name" : "DummyWithMoreDataBindingSlots",
+	"type" : "normal"
+}
