@@ -1,0 +1,3 @@
+accessing
+dataBindingNamesSharedWithParent
+	^ self dataBindingNames intersection: self parentDataBindingOwner dataBindingNames
