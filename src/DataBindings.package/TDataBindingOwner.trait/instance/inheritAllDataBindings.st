@@ -1,0 +1,3 @@
+initialize-release
+inheritAllDataBindings
+	self inheritDataBindingsNamed: self parentDataBindingOwner dataBindingNames
