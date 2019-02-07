@@ -9,7 +9,6 @@
 		"owner",
 		"name",
 		"subscriptions",
-		"refreshStrategy",
 		"dirty",
 		"oldValue",
 		"newValue",

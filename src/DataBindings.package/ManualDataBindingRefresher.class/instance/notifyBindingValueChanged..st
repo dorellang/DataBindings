@@ -1,3 +1,3 @@
-flushing
+notification
 notifyBindingValueChanged: aDataBinding
 	aDataBinding flush

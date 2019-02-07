@@ -1,3 +1,3 @@
-refreshing
+notification
 notifyBindingValueChanged: aDataBinding
 	aDataBinding flush
