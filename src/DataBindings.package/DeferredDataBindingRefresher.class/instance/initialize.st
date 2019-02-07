@@ -1,3 +1,3 @@
 initialization
 initialize
-	refreshRequested := false.
+	refreshRequested := false

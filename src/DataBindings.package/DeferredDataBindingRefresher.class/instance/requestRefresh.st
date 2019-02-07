@@ -1,3 +1,3 @@
 refreshing
 requestRefresh
-	refreshRequested := true.
+	refreshRequested := true

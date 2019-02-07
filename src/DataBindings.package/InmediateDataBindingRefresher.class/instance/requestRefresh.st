@@ -1,3 +1,3 @@
 refreshing
 requestRefresh
-	owner refresh.
+	owner refresh

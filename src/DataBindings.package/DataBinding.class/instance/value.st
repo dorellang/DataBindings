@@ -1,4 +1,5 @@
 accessing
 value
-	^ dirty ifTrue: [ newValue ]
+	^ dirty
+		ifTrue: [ newValue ]
 		ifFalse: [ value ]

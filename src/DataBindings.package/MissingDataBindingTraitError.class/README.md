@@ -1,1 +1,0 @@
-I am an Error that will be signaled at run time when trying to use a DataBindingSlot in a class that doesn't use the TDataBindingOwner trait.
