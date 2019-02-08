@@ -16,7 +16,7 @@ testTwoWayBinding
 	self assert: binding1 value equals: 2.
 	self assert: binding2 value equals: 2.
 	
-	"but not the other way :P"
+	"binding2 should propagate the other way around"
 	binding2 value: 42.
 	dummyOwner2 refresh.
 	self assert: binding2 value equals: 42.
