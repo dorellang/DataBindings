@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "BindingStrategyTest",
+	"category" : "DataBindings-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OneTimeBindingStrategyTest",
+	"type" : "normal"
+}

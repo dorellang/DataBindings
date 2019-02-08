@@ -1,0 +1,3 @@
+running
+setUpBindingStrategy
+	bindingStrategy := OneWayBindingStrategy instance

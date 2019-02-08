@@ -1,5 +1,5 @@
 tests
-testBindingShouldRequestRefresh
+testValueShouldRequestRefresh
 	| dummyOwner binding1 |
 	dummyOwner := DummyWithDataBindings new refresher: LogDataBindingRefresher new.
 	binding1 := DataBinding new owner: dummyOwner.
