@@ -19,8 +19,8 @@ Example:
 The code above would make a MyCoolBeerList instance respond to the #beersToShow and #beersToShow: with
 accessor-like behavior. You assign values to that data binding, just as if it were a MyCoolBeerList instance variable:
 
-	beersToShow := { 'Kwak'. 'Cuvee des Trolls' }. "like an instance variable"
-	beerList beersToShow: { 'Delirium Tremens'. 'Gulden Draak' } "through the automagical accessor"
+	beersToShow := { 'Kwak'. 'Cuvee des Trolls' }. "via variable"
+	beerList beersToShow: { 'Delirium Tremens'. 'Gulden Draak' }. "via accessor"
 
 You can also bind a DataBinding to the one that I hold via the following syntax:
 
