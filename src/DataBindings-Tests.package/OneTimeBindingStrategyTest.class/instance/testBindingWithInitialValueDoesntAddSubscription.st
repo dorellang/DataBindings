@@ -4,8 +4,8 @@ testBindingWithInitialValueDoesntAddSubscription
 
 	| owner binding1 binding2 |
 	owner := DummyWithDataBindings new.
-	binding1 := DataBinding new owner: owner.
-	binding2 := DataBinding new owner: owner.
+	binding1 := DataBinding newWithOwner: owner.
+	binding2 := DataBinding newWithOwner: owner.
 
 	binding1 value: 'hola'.
 	self assert: binding1 announcer numberOfSubscriptions equals: 0.

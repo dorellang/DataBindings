@@ -2,8 +2,8 @@ tests
 testBindingWithInitialValuePropagatesIt
 	| dummyOwner binding1 binding2 binder |
 	dummyOwner := DummyWithDataBindings new.
-	binding1 := DataBinding new owner: dummyOwner.
-	binding2 := DataBinding new owner: dummyOwner.
+	binding1 := DataBinding newWithOwner: dummyOwner.
+	binding2 := DataBinding newWithOwner: dummyOwner.
 	binder := TwoWayBindingStrategy instance.
 
 	binding1 value: 'hola'.
