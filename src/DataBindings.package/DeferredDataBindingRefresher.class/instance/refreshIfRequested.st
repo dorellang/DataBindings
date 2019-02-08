@@ -1,10 +1,6 @@
 refreshing
 refreshIfRequested
 	refreshRequested ifFalse: [ ^ self ].
-	self maxIterations timesRepeat: [
-		| hadChanges |
-		hadChanges := self refreshOwner: rootOwner.
-		hadChanges ifFalse: [ refreshRequested := false. ^ self].
-	].
-	refreshRequested := false.
-	TooManyRefreshIterations signal
+	[ 	self maxIterations timesRepeat: [ (self refreshOwner: rootOwner) ifFalse: [ ^ self ] ].
+		TooManyRefreshIterations signal.
+	] ensure: [ refreshRequested := false ]
